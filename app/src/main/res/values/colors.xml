@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#183FCF</color>
+    <color name="colorPrimaryDark">#183FCF</color>
+    <color name="colorAccent">#183FCF</color>
+
+    <!--Black-->
+    <color name="black">#000000</color>
+    <!--Transparent-->
+    <color name="transparent">#00000000</color>
+    <!--White-->
+    <color name="white">#ffffff</color>
+    <!--Blue-->
+    <color name="blue">#183FCF</color>
+</resources>
